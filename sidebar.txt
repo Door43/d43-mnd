@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mnd:home|Door43 (mnd)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mnd|d43-mnd repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mnd/archive/master.zip|d43-mnd.zip]]
+
+**Recent Changes**
+{{changes>ns = mnd}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mnd|Ethnologue data]]
+
